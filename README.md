@@ -1,4 +1,4 @@
-# webscraping
+# Project - Visualization of Jobs being offered by each company
 
 <aside>
 💡 Using free resources only
