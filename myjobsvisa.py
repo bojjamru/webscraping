@@ -34,3 +34,5 @@ for r in range(2, 25):
         value = driver.find_element(
         "xpath", '//*[@id="ctl00_ctl00_ContentPlaceHolder1_ContentPlaceHolder1_divcontent"]/table/tbody/tr['+str(r)+']/td[2]/a')
         print(value.text)
+
+# Use selenium.click
