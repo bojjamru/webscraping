@@ -1,7 +1,6 @@
 # Python program to scrape table from website
 
-# import libraries selenium and time
-import numpy
+# import libraries selenium and timepip 
 import pandas as pd
 import csv
 from selenium import webdriver
