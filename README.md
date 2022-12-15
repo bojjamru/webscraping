@@ -6,7 +6,7 @@
 </aside>
 
 1. Create a SQL database on AWS S3 Bucket ( 5GB free for 12 months)
-2. Web Scraping: pull data from **[myvisajobs.com](http://myvisajobs.com)** using the **`Beautifulsoup`** library in python to generate a CSV file
+2. Web Scraping: pull data from **[myvisajobs.com](http://myvisajobs.com)** using the **`Beautifulsoup`** library in python to generate a CSV file - Done.
 3. Use `Tableau`, for data visualization 
 4. Display data on a webpage using the `Streamlit` package along with DASH. ([https://docs.streamlit.io/knowledge-base/tutorials/databases/tableau](https://docs.streamlit.io/knowledge-base/tutorials/databases/tableau) )
 5. Dockerise the application
